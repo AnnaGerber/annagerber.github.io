@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[annagerber.github.io]]></title>
+  <link href="http://annagerber.github.io/atom.xml" rel="self"/>
+  <link href="http://annagerber.github.io/"/>
+  <updated>2013-09-28T22:55:46+10:00</updated>
+  <id>http://annagerber.github.io/</id>
+  <author>
+    <name><![CDATA[Anna]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://annagerber.github.io/blog/2013/09/28/hello-world/"/>
+    <updated>2013-09-28T15:24:00+10:00</updated>
+    <id>http://annagerber.github.io/blog/2013/09/28/hello-world</id>
+    <content type="html"><![CDATA[<blockquote><p>&lsquo;If you didn&rsquo;t document it, it didn&rsquo;t happen.&rsquo;</p></blockquote>
+
+<p>Someone said this to me recently, and it made me uncomfortable because I knew it was true.</p>
+
+<p>I stopped blogging 6 years ago when I returned to Australia from Japan, because I felt that I didn&rsquo;t have anything interesting to say, and because it freed up more time for getting things done. I probably have less free time now than I did before, but let the documentation begin&hellip;</p>
+]]></content>
+  </entry>
+  
+</feed>
