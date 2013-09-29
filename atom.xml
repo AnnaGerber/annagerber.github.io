@@ -4,7 +4,7 @@
   <title><![CDATA[annagerber.github.io]]></title>
   <link href="http://annagerber.github.io/atom.xml" rel="self"/>
   <link href="http://annagerber.github.io/"/>
-  <updated>2013-09-28T22:55:46+10:00</updated>
+  <updated>2013-09-29 10:39:08 +1000</updated>
   <id>http://annagerber.github.io/</id>
   <author>
     <name><![CDATA[Anna]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
     <link href="http://annagerber.github.io/blog/2013/09/28/hello-world/"/>
-    <updated>2013-09-28T15:24:00+10:00</updated>
+    <updated>2013-09-28 15:24:00 +1000</updated>
     <id>http://annagerber.github.io/blog/2013/09/28/hello-world</id>
     <content type="html"><![CDATA[<blockquote><p>&lsquo;If you didn&rsquo;t document it, it didn&rsquo;t happen.&rsquo;</p></blockquote>
 
